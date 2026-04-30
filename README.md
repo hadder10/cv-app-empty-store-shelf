@@ -1,0 +1,1 @@
+# cv-app-empty-store-shelf
